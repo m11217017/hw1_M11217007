@@ -7,3 +7,5 @@ Download ZIP
 
 
 執行 adult_data_preprocessing_with_model.ipynb
+
+ID3 、C4.5 、C5.0、CART 的 predict 結果在 predict_results_csv，Earning potential <=50K 為 1， >50K 為 0
